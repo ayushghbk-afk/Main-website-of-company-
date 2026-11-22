@@ -1,0 +1,59 @@
+# We Are Tired
+
+> A little less noise. A little more good.
+
+Official website: https://ayushghbk-afk.github.io/Main-website-of-company-/
+
+## About
+
+We Are Tired is an independent technology initiative working toward a more accessible, useful, and open internet.
+
+The initiative aims to build practical, original, and legally compliant alternatives to digital services that create unnecessary barriers through paywalls, intrusive advertising, or poor user experiences.
+
+## Mission
+
+Make useful digital experiences more accessible by building better alternatives wherever possible and legal.
+
+## Vision
+
+An internet where people can learn, create, communicate, and get things done without unnecessary barriers.
+
+## Areas of work
+
+- Practical digital tools
+- Open discovery and access to knowledge
+- Open-source technology and alternatives
+- Privacy-minded digital experiences
+- Low-distraction products
+
+These are planned areas of exploration; no products are launched yet.
+
+## Principles
+
+- Accessibility
+- Respect for people's attention
+- Privacy
+- Open technology
+- Legal and ethical development
+- Quality and usefulness
+
+## Launched products
+
+None yet. We Are Tired does not currently have launched products. The Projects page describes planned areas of exploration, not available products.
+
+## Legal and ethical approach
+
+We Are Tired aims to create original alternatives and support responsible open technology. It does not claim ownership of third-party content or intend to bypass legitimate ownership, licensing, or access controls.
+
+## Website pages
+
+- Home: https://ayushghbk-afk.github.io/Main-website-of-company-/
+- Vision: https://ayushghbk-afk.github.io/Main-website-of-company-/vision.html
+- Our reason: https://ayushghbk-afk.github.io/Main-website-of-company-/why.html
+- Principles: https://ayushghbk-afk.github.io/Main-website-of-company-/principles.html
+- Projects: https://ayushghbk-afk.github.io/Main-website-of-company-/projects.html
+- Contact: https://ayushghbk-afk.github.io/Main-website-of-company-/contact.html
+
+## Official information
+
+The website above is the primary source of information about We Are Tired.

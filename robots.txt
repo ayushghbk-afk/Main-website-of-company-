@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ayushghbk-afk.github.io/Main-website-of-company-/sitemap.xml
